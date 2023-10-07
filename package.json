@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-monitored-directory",
-  "version": "0.0.0",
+  "version": "0.0.1-beta.0",
   "packageManager": "pnpm@7.9.0",
   "description": "> To check if any files in the monitored directory are referenced and provide a prompt.",
   "publishConfig": {
